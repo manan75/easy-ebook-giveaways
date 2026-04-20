@@ -19,7 +19,7 @@ import DownloadPage from '../features/downloads/pages/DownloadPage';
 
 export function AppRouter() {
   return (
-    <BrowserRouter>
+    <BrowserRouter basename="/easy-ebook-giveaways">
       <Routes>
         <Route path="/login" element={<LoginPage />} />
         <Route path="/signup" element={<SignupPage />} />
