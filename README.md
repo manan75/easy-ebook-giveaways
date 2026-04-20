@@ -1,12 +1,10 @@
 # 📚 Ebook Giveaway App
 
+[![Giveaway](https://img.shields.io/badge/%E2%9C%A8Giveaway-111111?style=for-the-badge)](https://monapdx.github.io/easy-ebook-giveaways/g/free-ebook-giveaway) [![Login](https://img.shields.io/badge/%F0%9F%93%8CLogin-111111?style=for-the-badge)](https://monapdx.github.io/easy-ebook-giveaways/login) [![Dashboard](https://img.shields.io/badge/%F0%9F%9A%80Dashboard-111111?style=for-the-badge)](https://monapdx.github.io/easy-ebook-giveaways/) 
+
 | Logo | Description |
 |---|---|
 | <img src="https://raw.githubusercontent.com/monapdx/easy-ebook-giveaways/refs/heads/main/logo.png" width="354"> | This document captures the major milestones and technical progress made while building the Ebook Giveaway App — a platform for self-published authors to create, host, and deliver free ebook giveaways without relying on third-party email marketing tools. |
-
-## Pages
-
-[![Giveaway](https://img.shields.io/badge/%E2%9C%A8Giveaway-111111?style=for-the-badge)](https://monapdx.github.io/easy-ebook-giveaways/g/free-ebook-giveaway) [![Login](https://img.shields.io/badge/%F0%9F%93%8CLogin-111111?style=for-the-badge)](https://monapdx.github.io/easy-ebook-giveaways/login) [![Dashboard](https://img.shields.io/badge/%F0%9F%9A%80Dashboard-111111?style=for-the-badge)](https://monapdx.github.io/easy-ebook-giveaways/) 
 
 ## Screenshots
 
